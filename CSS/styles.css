@@ -1,0 +1,48 @@
+/* Save this inside CSS/styles.css */
+
+body {
+    background-color: #19acc2; /* Main page background */
+    color: #1a2b32; /* Dark readable text */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #13afc0;
+    color: #ffffff; /* White text for header */
+    padding: 1rem;
+    text-align: center;
+}
+
+nav {
+    background-color: #0e889b;
+    padding: 0.5rem;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+section {
+    background: #ffffff; /* White card background for readability */
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+h2 {
+    color: #0e889b; /* Dark teal headings */
+    border-bottom: 2px solid #17b6cb;
+    padding-bottom: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #108d9e;
+    color: #ffffff; /* White footer text */
+}
